@@ -1,0 +1,25 @@
+body{
+background-image: url("background.jpg");
+background-size: cover;
+}
+.header{
+    width: 100%;
+    margin: 0;
+    font-size: 25px;
+}
+#footer{
+    bottom: 0;
+    position: fixed;
+    background-color: paleturquoise;
+    width: 100%;
+    text-align: center;
+    line-height: 2;
+    color: tomato;
+    font-size: 18px;
+}
+canvas{
+    border: 5px double blue;
+    margin-top: 70px;
+    border-radius: 20px;
+    box-shadow: rgb(176, 176, 226) 10px 10px 20px;
+}
